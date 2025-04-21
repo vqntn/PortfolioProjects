@@ -60,9 +60,6 @@ All collected data was processed using Python and exported for visualization in 
 ## Files
 
 - `Urban_Mobility_Analysis.ipynb`: full notebook with code, visuals, and explanations
-- `data_input/`: raw place details from API
-- `data_output/`: filtered places with populartimes
-- `map_ready.csv`: file for direct upload into Kepler.gl
 
 ---
 
